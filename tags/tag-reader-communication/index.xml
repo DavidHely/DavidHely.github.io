@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag-reader communication on David Hely</title>
+    <link>https://DavidHely.github.io/tags/tag-reader-communication/</link>
+    <description>Recent content in tag-reader communication on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/tags/tag-reader-communication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SystemC modeling of RFID systems for robustness analysis</title>
+      <link>https://DavidHely.github.io/publication/fritz-systemc-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-systemc-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

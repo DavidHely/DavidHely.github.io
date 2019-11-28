@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on David Hely</title>
+    <link>https://DavidHely.github.io/publication/</link>
+    <description>Recent content in Publications on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPN-DPUF: Substitution-Permutation Network Based Secure Circuit for Digital PUF</title>
+      <link>https://DavidHely.github.io/publication/8839620/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839620/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrustFlow: A Trusted Memory Support for Data Flow Integrity</title>
+      <link>https://DavidHely.github.io/publication/8839426/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Password Management System Using Ternary Addressable PUF Generator</title>
+      <link>https://DavidHely.github.io/publication/mohammadinodoushan-2019-implementation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/mohammadinodoushan-2019-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and Noninvasive IC Authentication Using Radiated Electromagnetic Emissions</title>
+      <link>https://DavidHely.github.io/publication/ahmed-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stack Redundancy to Thwart Return Oriented Programming in Embedded Systems</title>
+      <link>https://DavidHely.github.io/publication/bresch-stack-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-stack-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication of Microcontroller Board Using Non-Invasive EM Emission Technique</title>
+      <link>https://DavidHely.github.io/publication/ahmed-authentication-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-authentication-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Security Evaluation Platform for MCU-Based Connected Devices: Application to Healthcare IoT</title>
+      <link>https://DavidHely.github.io/publication/kazemi-hardware-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/kazemi-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESCALATION: Leveraging Logic Masking to Facilitate Path-Delay-Based Hardware Trojan Detection Methods</title>
+      <link>https://DavidHely.github.io/publication/nejat-escalation-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-escalation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Trojan Detection Using an Advised Genetic Algorithm Based Logic Testing</title>
+      <link>https://DavidHely.github.io/publication/nourian-hardware-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nourian-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case of using CMOS FD-SOI rather than CMOS bulk to harden ICs against laser attacks</title>
+      <link>https://DavidHely.github.io/publication/dutertre-case-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-case-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Inherently Secure Run-Time Environment for Medical Devices</title>
+      <link>https://DavidHely.github.io/publication/bresch-towards-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-towards-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiated Electromagnetic Emission for Integrated Circuit Authentication</title>
+      <link>https://DavidHely.github.io/publication/ahmed-radiated-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-radiated-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System, method and computer-accessible medium for low-overhead security wrapper for memory access control of embedded systems</title>
+      <link>https://DavidHely.github.io/publication/karri-system-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/karri-system-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential of chipless authentication based on randomness inherent in fabrication process for RF and THz</title>
+      <link>https://DavidHely.github.io/publication/ali-potential-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ali-potential-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comprehensive hardware/software infrastructure for IP cores design protection</title>
+      <link>https://DavidHely.github.io/publication/colombier-comprehensive-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-comprehensive-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A red team blue team approach towards a secure processor design with hardware shadow stack</title>
+      <link>https://DavidHely.github.io/publication/bresch-red-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-red-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrality Indicators for Efficient and Scalable Logic Masking</title>
+      <link>https://DavidHely.github.io/publication/colombier-centrality-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-centrality-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Elliptic Curve Scalar Multiplication Secure Against Side Channel Attacks and Safe Errors</title>
+      <link>https://DavidHely.github.io/publication/dubeuf-enhanced-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dubeuf-enhanced-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IoT Components LifeCycle Based Security Analysis</title>
+      <link>https://DavidHely.github.io/publication/marconot-iot-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/marconot-iot-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Key Reconciliation Protocols for Error Correction of Silicon PUF Responses</title>
+      <link>https://DavidHely.github.io/publication/colombier-key-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-key-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure and Flexible Trace-Based Debugging of Systems-on-Chip</title>
+      <link>https://DavidHely.github.io/publication/backer-secure-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/backer-secure-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a robust and efficient EM based authentication of FPGA against counterfeiting and recycling</title>
+      <link>https://DavidHely.github.io/publication/ahmed-towards-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-towards-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Algorithm Diversity in Stream Cipher Implementation Thwart (Natural and) Malicious Faults?</title>
+      <link>https://DavidHely.github.io/publication/guo-can-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/guo-can-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of laser-induced errors: RTL fault models versus layout locality characteristics</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clock generator behavioral modeling for supply voltage glitch attack effects analysis</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of RTL fault models for the robustness evaluation of aerospace FPGA devices</title>
+      <link>https://DavidHely.github.io/publication/champon-comparison-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/champon-comparison-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECDSA Passive Attacks, Leakage Sources, and Common Design Mistakes</title>
+      <link>https://DavidHely.github.io/publication/dubeuf-ecdsa-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dubeuf-ecdsa-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From secured logic to IP protection</title>
+      <link>https://DavidHely.github.io/publication/colombier-secured-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-secured-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High output hamming-distance achievement by a greedy logic masking approach</title>
+      <link>https://DavidHely.github.io/publication/samimi-high-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/samimi-high-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How logic masking can improve path delay analysis for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-how-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-how-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a secured digital ultralight 14443-type A RFID tag with an FPGA platform</title>
+      <link>https://DavidHely.github.io/publication/naija-implementation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/naija-implementation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On fault injections for early security evaluation vs. laser-based attacks</title>
+      <link>https://DavidHely.github.io/publication/leveugle-fault-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-fault-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the development of a new countermeasure based on a laser attack RTL fault model</title>
+      <link>https://DavidHely.github.io/publication/ananiadis-development-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ananiadis-development-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A secure design-for-test infrastructure for lifetime security of SoCs</title>
+      <link>https://DavidHely.github.io/publication/backer-secure-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/backer-secure-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating side channel analysis by obfuscation for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-facilitating-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-facilitating-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On enhancing the debug architecture of a system-on-chip (SoC) to detect software attacks</title>
+      <link>https://DavidHely.github.io/publication/backer-enhancing-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/backer-enhancing-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversible Denial-of-Service by Locking Gates Insertion for IP Cores Design Protection</title>
+      <link>https://DavidHely.github.io/publication/colombier-reversible-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-reversible-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure design-for-debug for Systems-on-Chip</title>
+      <link>https://DavidHely.github.io/publication/backer-secure-2015-1/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/backer-secure-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of RTL laser fault injection model with respect to layout information</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiple fault injection methodology based on cone partitioning towards RTL modeling of laser attacks</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulation based fault injection on UHF RFID transponder</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault tolerance evaluation of RFID tags</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Induced Fault Effects in Security-Dedicated Circuits</title>
+      <link>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-induced fault effects in security-dedicated circuits</title>
+      <link>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On error models for RTL security evaluations</title>
+      <link>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing the IEEE 1500 design for test infrastructure for security monitoring of Systems-on-Chip</title>
+      <link>https://DavidHely.github.io/publication/backer-reusing-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/backer-reusing-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Glitch Attacks on Mixed-Signal Systems</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An UHF RFID emulation platform with fault injection and real time monitoring capabilities</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assertion based on-line fault detection applied on UHF RFID tag</title>
+      <link>https://DavidHely.github.io/publication/mezzah-assertion-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/mezzah-assertion-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPC Class 1 GEN 2 UHF RFID tag emulator for robustness evaluation and improvement</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experiences in side channel and testing based Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/hely-experiences-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-experiences-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the security level of analog IPs by using a dedicated vulnerability analysis methodology</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for detecting an erroneous jump during program execution</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-time detection of hardware Trojans: The processor protection unit</title>
+      <link>https://DavidHely.github.io/publication/dubeuf-run-time-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dubeuf-run-time-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A physical unclonable function based on setup time violation</title>
+      <link>https://DavidHely.github.io/publication/hely-physical-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-physical-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a new RFID system performance monitoring approach</title>
+      <link>https://DavidHely.github.io/publication/fritz-evaluation-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-evaluation-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious key emission via hardware Trojan against encryption system</title>
+      <link>https://DavidHely.github.io/publication/hely-malicious-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-malicious-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for securing digital information on an integrated circuit during test operating modes</title>
+      <link>https://DavidHely.github.io/publication/gadelrab-method-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/gadelrab-method-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SystemC modeling of RFID systems for robustness analysis</title>
+      <link>https://DavidHely.github.io/publication/fritz-systemc-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-systemc-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security challenges during VLSI test</title>
+      <link>https://DavidHely.github.io/publication/hely-security-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-security-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic circuit comprising a test mode secured by insertion of decoy data in the test chain, associated method</title>
+      <link>https://DavidHely.github.io/publication/bancel-electronic-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-electronic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by the use of an identifier, and associated method</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFID System On-line Testing Based on the Evaluation of the Tags Read-Error-Rate</title>
+      <link>https://DavidHely.github.io/publication/fritz-rfid-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-rfid-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read rate profile monitoring for defect detection in RFID Systems</title>
+      <link>https://DavidHely.github.io/publication/fritz-read-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-read-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an unified IP verification and robustness analysis platform</title>
+      <link>https://DavidHely.github.io/publication/hely-towards-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-towards-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic circuit comprising a test mode secured by the breaking of a test chain, and associated electronic circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-electronic-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-electronic-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of a disturbance in the state of an electronic circuit flip-flop</title>
+      <link>https://DavidHely.github.io/publication/bancel-detection-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-detection-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by detection of the state of a control signal</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for securing the reading of a memory</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting an integrated circuit test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-protecting-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-protecting-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting an integrated circuit test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-protecting-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-protecting-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit having configurable cells and a secured test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for testing an electronic circuit comprising a test mode secured by the use of a signature, and associated electronic circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of securing the test mode of an integrated circuit via intrusion detection</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2009-1/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2009-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing the test mode of an integrated circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-securing-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-securing-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by initialization of the test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing Scan Control in Crypto Chips</title>
+      <link>https://DavidHely.github.io/publication/hely-securing-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-securing-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A secure scan design methodology</title>
+      <link>https://DavidHely.github.io/publication/hely-secure-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-secure-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Scan Techniques: A Comparison</title>
+      <link>https://DavidHely.github.io/publication/hely-secure-2006-1/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-secure-2006-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test control for secure scan designs</title>
+      <link>https://DavidHely.github.io/publication/hely-test-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-test-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scan Design and Secure Chip</title>
+      <link>https://DavidHely.github.io/publication/hely-scan-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-scan-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduction of interconnect delay by exploiting cross-talk</title>
+      <link>https://DavidHely.github.io/publication/dijk-reduction-2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dijk-reduction-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety on David Hely</title>
+    <link>https://DavidHely.github.io/tags/safety/</link>
+    <description>Recent content in Safety on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware Security Evaluation Platform for MCU-Based Connected Devices: Application to Healthcare IoT</title>
+      <link>https://DavidHely.github.io/publication/kazemi-hardware-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/kazemi-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

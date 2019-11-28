@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Candelier on David Hely</title>
+    <link>https://DavidHely.github.io/authors/philippe-candelier/</link>
+    <description>Recent content in Philippe Candelier on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/philippe-candelier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case of using CMOS FD-SOI rather than CMOS bulk to harden ICs against laser attacks</title>
+      <link>https://DavidHely.github.io/publication/dutertre-case-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-case-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clock generator behavioral modeling for supply voltage glitch attack effects analysis</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Induced Fault Effects in Security-Dedicated Circuits</title>
+      <link>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-induced fault effects in security-dedicated circuits</title>
+      <link>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Glitch Attacks on Mixed-Signal Systems</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the security level of analog IPs by using a dedicated vulnerability analysis methodology</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Chollet on David Hely</title>
+    <link>https://DavidHely.github.io/authors/s.-chollet/</link>
+    <description>Recent content in S. Chollet on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/s.-chollet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TrustFlow: A Trusted Memory Support for Data Flow Integrity</title>
+      <link>https://DavidHely.github.io/publication/8839426/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839426/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omar Abdelmalek on David Hely</title>
+    <link>https://DavidHely.github.io/authors/omar-abdelmalek/</link>
+    <description>Recent content in Omar Abdelmalek on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/omar-abdelmalek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emulation based fault injection on UHF RFID transponder</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault tolerance evaluation of RFID tags</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An UHF RFID emulation platform with fault injection and real time monitoring capabilities</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assertion based on-line fault detection applied on UHF RFID tag</title>
+      <link>https://DavidHely.github.io/publication/mezzah-assertion-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/mezzah-assertion-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPC Class 1 GEN 2 UHF RFID tag emulator for robustness evaluation and improvement</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

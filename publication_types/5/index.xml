@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 on David Hely</title>
+    <link>https://DavidHely.github.io/publication_types/5/</link>
+    <description>Recent content in 5 on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>System, method and computer-accessible medium for low-overhead security wrapper for memory access control of embedded systems</title>
+      <link>https://DavidHely.github.io/publication/karri-system-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/karri-system-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for detecting an erroneous jump during program execution</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and apparatus for securing digital information on an integrated circuit during test operating modes</title>
+      <link>https://DavidHely.github.io/publication/gadelrab-method-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/gadelrab-method-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic circuit comprising a test mode secured by insertion of decoy data in the test chain, associated method</title>
+      <link>https://DavidHely.github.io/publication/bancel-electronic-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-electronic-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by the use of an identifier, and associated method</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic circuit comprising a test mode secured by the breaking of a test chain, and associated electronic circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-electronic-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-electronic-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of a disturbance in the state of an electronic circuit flip-flop</title>
+      <link>https://DavidHely.github.io/publication/bancel-detection-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-detection-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by detection of the state of a control signal</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for securing the reading of a memory</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting an integrated circuit test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-protecting-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-protecting-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting an integrated circuit test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-protecting-2009/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-protecting-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit having configurable cells and a secured test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for testing an electronic circuit comprising a test mode secured by the use of a signature, and associated electronic circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method of securing the test mode of an integrated circuit via intrusion detection</title>
+      <link>https://DavidHely.github.io/publication/bancel-method-2009-1/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-method-2009-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing the test mode of an integrated circuit</title>
+      <link>https://DavidHely.github.io/publication/bancel-securing-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-securing-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit comprising a test mode secured by initialization of the test mode</title>
+      <link>https://DavidHely.github.io/publication/bancel-integrated-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bancel-integrated-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

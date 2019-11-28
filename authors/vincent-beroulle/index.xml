@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Beroulle on David Hely</title>
+    <link>https://DavidHely.github.io/authors/vincent-beroulle/</link>
+    <description>Recent content in Vincent Beroulle on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/vincent-beroulle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ESCALATION: Leveraging Logic Masking to Facilitate Path-Delay-Based Hardware Trojan Detection Methods</title>
+      <link>https://DavidHely.github.io/publication/nejat-escalation-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-escalation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case of using CMOS FD-SOI rather than CMOS bulk to harden ICs against laser attacks</title>
+      <link>https://DavidHely.github.io/publication/dutertre-case-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-case-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced Elliptic Curve Scalar Multiplication Secure Against Side Channel Attacks and Safe Errors</title>
+      <link>https://DavidHely.github.io/publication/dubeuf-enhanced-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dubeuf-enhanced-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of laser-induced errors: RTL fault models versus layout locality characteristics</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clock generator behavioral modeling for supply voltage glitch attack effects analysis</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-clock-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of RTL fault models for the robustness evaluation of aerospace FPGA devices</title>
+      <link>https://DavidHely.github.io/publication/champon-comparison-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/champon-comparison-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECDSA Passive Attacks, Leakage Sources, and Common Design Mistakes</title>
+      <link>https://DavidHely.github.io/publication/dubeuf-ecdsa-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dubeuf-ecdsa-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High output hamming-distance achievement by a greedy logic masking approach</title>
+      <link>https://DavidHely.github.io/publication/samimi-high-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/samimi-high-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How logic masking can improve path delay analysis for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-how-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-how-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of a secured digital ultralight 14443-type A RFID tag with an FPGA platform</title>
+      <link>https://DavidHely.github.io/publication/naija-implementation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/naija-implementation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On fault injections for early security evaluation vs. laser-based attacks</title>
+      <link>https://DavidHely.github.io/publication/leveugle-fault-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-fault-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the development of a new countermeasure based on a laser attack RTL fault model</title>
+      <link>https://DavidHely.github.io/publication/ananiadis-development-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ananiadis-development-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating side channel analysis by obfuscation for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-facilitating-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-facilitating-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of RTL laser fault injection model with respect to layout information</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiple fault injection methodology based on cone partitioning towards RTL modeling of laser attacks</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulation based fault injection on UHF RFID transponder</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-emulation-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault tolerance evaluation of RFID tags</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-fault-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Induced Fault Effects in Security-Dedicated Circuits</title>
+      <link>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-induced fault effects in security-dedicated circuits</title>
+      <link>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On error models for RTL security evaluations</title>
+      <link>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage Glitch Attacks on Mixed-Signal Systems</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-voltage-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An UHF RFID emulation platform with fault injection and real time monitoring capabilities</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-uhf-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assertion based on-line fault detection applied on UHF RFID tag</title>
+      <link>https://DavidHely.github.io/publication/mezzah-assertion-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/mezzah-assertion-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EPC Class 1 GEN 2 UHF RFID tag emulator for robustness evaluation and improvement</title>
+      <link>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/abdelmalek-epc-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing the security level of analog IPs by using a dedicated vulnerability analysis methodology</title>
+      <link>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beringuier-boher-increasing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of a new RFID system performance monitoring approach</title>
+      <link>https://DavidHely.github.io/publication/fritz-evaluation-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-evaluation-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFID System On-line Testing Based on the Evaluation of the Tags Read-Error-Rate</title>
+      <link>https://DavidHely.github.io/publication/fritz-rfid-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-rfid-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read rate profile monitoring for defect detection in RFID Systems</title>
+      <link>https://DavidHely.github.io/publication/fritz-read-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-read-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an unified IP verification and robustness analysis platform</title>
+      <link>https://DavidHely.github.io/publication/hely-towards-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-towards-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

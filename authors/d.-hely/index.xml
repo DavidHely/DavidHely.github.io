@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Hely on David Hely</title>
+    <link>https://DavidHely.github.io/authors/d.-hely/</link>
+    <description>Recent content in D. Hely on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/d.-hely/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPN-DPUF: Substitution-Permutation Network Based Secure Circuit for Digital PUF</title>
+      <link>https://DavidHely.github.io/publication/8839620/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839620/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication of Microcontroller Board Using Non-Invasive EM Emission Technique</title>
+      <link>https://DavidHely.github.io/publication/ahmed-authentication-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-authentication-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Security Evaluation Platform for MCU-Based Connected Devices: Application to Healthcare IoT</title>
+      <link>https://DavidHely.github.io/publication/kazemi-hardware-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/kazemi-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiated Electromagnetic Emission for Integrated Circuit Authentication</title>
+      <link>https://DavidHely.github.io/publication/ahmed-radiated-2017/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-radiated-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential of chipless authentication based on randomness inherent in fabrication process for RF and THz</title>
+      <link>https://DavidHely.github.io/publication/ali-potential-2017/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ali-potential-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a robust and efficient EM based authentication of FPGA against counterfeiting and recycling</title>
+      <link>https://DavidHely.github.io/publication/ahmed-towards-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-towards-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduction of interconnect delay by exploiting cross-talk</title>
+      <link>https://DavidHely.github.io/publication/dijk-reduction-2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dijk-reduction-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

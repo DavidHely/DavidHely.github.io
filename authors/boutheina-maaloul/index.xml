@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boutheina Maaloul on David Hely</title>
+    <link>https://DavidHely.github.io/authors/boutheina-maaloul/</link>
+    <description>Recent content in Boutheina Maaloul on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/boutheina-maaloul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Read rate profile monitoring for defect detection in RFID Systems</title>
+      <link>https://DavidHely.github.io/publication/fritz-read-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-read-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

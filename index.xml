@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Hely on David Hely</title>
+    <link>https://DavidHely.github.io/</link>
+    <description>Recent content in David Hely on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SPN-DPUF: Substitution-Permutation Network Based Secure Circuit for Digital PUF</title>
+      <link>https://DavidHely.github.io/publication/8839620/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839620/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrustFlow: A Trusted Memory Support for Data Flow Integrity</title>
+      <link>https://DavidHely.github.io/publication/8839426/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/8839426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Support For Secure Computing</title>
+      <link>https://DavidHely.github.io/project/external-project/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>https://DavidHely.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://DavidHely.github.io/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
+hugo new  --kind post post/my-post
+cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+
+# Copy the contents of Untitled.md and append it to index.md:
+cat Untitled.md | tee -a index.md
+
+# Remove the temporary file:
+rm Untitled.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementation of Password Management System Using Ternary Addressable PUF Generator</title>
+      <link>https://DavidHely.github.io/publication/mohammadinodoushan-2019-implementation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/mohammadinodoushan-2019-implementation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and Noninvasive IC Authentication Using Radiated Electromagnetic Emissions</title>
+      <link>https://DavidHely.github.io/publication/ahmed-2019-robust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-2019-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>https://DavidHely.github.io/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stack Redundancy to Thwart Return Oriented Programming in Embedded Systems</title>
+      <link>https://DavidHely.github.io/publication/bresch-stack-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-stack-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication of Microcontroller Board Using Non-Invasive EM Emission Technique</title>
+      <link>https://DavidHely.github.io/publication/ahmed-authentication-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ahmed-authentication-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Security Evaluation Platform for MCU-Based Connected Devices: Application to Healthcare IoT</title>
+      <link>https://DavidHely.github.io/publication/kazemi-hardware-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/kazemi-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESCALATION: Leveraging Logic Masking to Facilitate Path-Delay-Based Hardware Trojan Detection Methods</title>
+      <link>https://DavidHely.github.io/publication/nejat-escalation-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-escalation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Trojan Detection Using an Advised Genetic Algorithm Based Logic Testing</title>
+      <link>https://DavidHely.github.io/publication/nourian-hardware-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nourian-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case of using CMOS FD-SOI rather than CMOS bulk to harden ICs against laser attacks</title>
+      <link>https://DavidHely.github.io/publication/dutertre-case-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-case-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Inherently Secure Run-Time Environment for Medical Devices</title>
+      <link>https://DavidHely.github.io/publication/bresch-towards-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-towards-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maurin Augagneur on David Hely</title>
+    <link>https://DavidHely.github.io/authors/maurin-augagneur/</link>
+    <description>Recent content in Maurin Augagneur on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/maurin-augagneur/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A physical unclonable function based on setup time violation</title>
+      <link>https://DavidHely.github.io/publication/hely-physical-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-physical-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious key emission via hardware Trojan against encryption system</title>
+      <link>https://DavidHely.github.io/publication/hely-malicious-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-malicious-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

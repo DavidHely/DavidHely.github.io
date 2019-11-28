@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Michelet-Gignoux on David Hely</title>
+    <link>https://DavidHely.github.io/authors/a.-michelet-gignoux/</link>
+    <description>Recent content in A. Michelet-Gignoux on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/a.-michelet-gignoux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stack Redundancy to Thwart Return Oriented Programming in Embedded Systems</title>
+      <link>https://DavidHely.github.io/publication/bresch-stack-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/bresch-stack-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

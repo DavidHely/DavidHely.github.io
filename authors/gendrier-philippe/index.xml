@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gendrier Philippe on David Hely</title>
+    <link>https://DavidHely.github.io/authors/gendrier-philippe/</link>
+    <description>Recent content in Gendrier Philippe on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/gendrier-philippe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

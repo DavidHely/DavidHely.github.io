@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charalampos Ananiadis on David Hely</title>
+    <link>https://DavidHely.github.io/authors/charalampos-ananiadis/</link>
+    <description>Recent content in Charalampos Ananiadis on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/charalampos-ananiadis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the development of a new countermeasure based on a laser attack RTL fault model</title>
+      <link>https://DavidHely.github.io/publication/ananiadis-development-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ananiadis-development-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VLSI on David Hely</title>
+    <link>https://DavidHely.github.io/tags/vlsi/</link>
+    <description>Recent content in VLSI on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/tags/vlsi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Security challenges during VLSI test</title>
+      <link>https://DavidHely.github.io/publication/hely-security-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/hely-security-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

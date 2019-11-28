@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oum-El-Kheir Aktouf on David Hely</title>
+    <link>https://DavidHely.github.io/authors/oum-el-kheir-aktouf/</link>
+    <description>Recent content in Oum-El-Kheir Aktouf on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/oum-el-kheir-aktouf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluation of a new RFID system performance monitoring approach</title>
+      <link>https://DavidHely.github.io/publication/fritz-evaluation-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-evaluation-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFID System On-line Testing Based on the Evaluation of the Tags Read-Error-Rate</title>
+      <link>https://DavidHely.github.io/publication/fritz-rfid-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-rfid-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Read rate profile monitoring for defect detection in RFID Systems</title>
+      <link>https://DavidHely.github.io/publication/fritz-read-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-read-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

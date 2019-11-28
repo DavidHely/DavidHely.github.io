@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohsen Machhout on David Hely</title>
+    <link>https://DavidHely.github.io/authors/mohsen-machhout/</link>
+    <description>Recent content in Mohsen Machhout on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/mohsen-machhout/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Implementation of a secured digital ultralight 14443-type A RFID tag with an FPGA platform</title>
+      <link>https://DavidHely.github.io/publication/naija-implementation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/naija-implementation-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

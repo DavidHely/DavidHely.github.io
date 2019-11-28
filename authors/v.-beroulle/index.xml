@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Beroulle on David Hely</title>
+    <link>https://DavidHely.github.io/authors/v.-beroulle/</link>
+    <description>Recent content in V. Beroulle on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/v.-beroulle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hardware Security Evaluation Platform for MCU-Based Connected Devices: Application to Healthcare IoT</title>
+      <link>https://DavidHely.github.io/publication/kazemi-hardware-2018/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/kazemi-hardware-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SystemC modeling of RFID systems for robustness analysis</title>
+      <link>https://DavidHely.github.io/publication/fritz-systemc-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/fritz-systemc-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

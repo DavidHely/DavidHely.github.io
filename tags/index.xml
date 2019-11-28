@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on David Hely</title>
+    <link>https://DavidHely.github.io/tags/</link>
+    <description>Recent content in Tags on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://DavidHely.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation models</title>
+      <link>https://DavidHely.github.io/tags/adaptation-models/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/adaptation-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging</title>
+      <link>https://DavidHely.github.io/tags/aging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authentication</title>
+      <link>https://DavidHely.github.io/tags/authentication/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automata</title>
+      <link>https://DavidHely.github.io/tags/automata/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/automata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buffer overflows</title>
+      <link>https://DavidHely.github.io/tags/buffer-overflows/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/buffer-overflows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Built-in self-test</title>
+      <link>https://DavidHely.github.io/tags/built-in-self-test/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/built-in-self-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cavity resonators</title>
+      <link>https://DavidHely.github.io/tags/cavity-resonators/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/cavity-resonators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciphers</title>
+      <link>https://DavidHely.github.io/tags/ciphers/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/ciphers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuit faults</title>
+      <link>https://DavidHely.github.io/tags/circuit-faults/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/circuit-faults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clocks</title>
+      <link>https://DavidHely.github.io/tags/clocks/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/clocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concurrent error detection</title>
+      <link>https://DavidHely.github.io/tags/concurrent-error-detection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/concurrent-error-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Control flow integrity</title>
+      <link>https://DavidHely.github.io/tags/control-flow-integrity/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/control-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cryptography</title>
+      <link>https://DavidHely.github.io/tags/cryptography/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DFHT method</title>
+      <link>https://DavidHely.github.io/tags/dfht-method/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/dfht-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Flow Integrity</title>
+      <link>https://DavidHely.github.io/tags/data-flow-integrity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/data-flow-integrity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://DavidHely.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM</title>
+      <link>https://DavidHely.github.io/tags/em/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/em/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM based authentication</title>
+      <link>https://DavidHely.github.io/tags/em-based-authentication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/em-based-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM fingerprint</title>
+      <link>https://DavidHely.github.io/tags/em-fingerprint/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/em-fingerprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM measurements</title>
+      <link>https://DavidHely.github.io/tags/em-measurements/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/em-measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EM wave</title>
+      <link>https://DavidHely.github.io/tags/em-wave/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/em-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedded systems</title>
+      <link>https://DavidHely.github.io/tags/embedded-systems/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error correction codes</title>
+      <link>https://DavidHely.github.io/tags/error-correction-codes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-correction-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FMR</title>
+      <link>https://DavidHely.github.io/tags/fmr/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fmr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA</title>
+      <link>https://DavidHely.github.io/tags/fpga/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fpga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabrication</title>
+      <link>https://DavidHely.github.io/tags/fabrication/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fabrication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Field programmable gate arrays</title>
+      <link>https://DavidHely.github.io/tags/field-programmable-gate-arrays/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/field-programmable-gate-arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gratings</title>
+      <link>https://DavidHely.github.io/tags/gratings/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/gratings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HT detection</title>
+      <link>https://DavidHely.github.io/tags/ht-detection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/ht-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://DavidHely.github.io/tags/hardware/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/tags/hardware-trojan-detection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware-trojan-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware attacks</title>
+      <link>https://DavidHely.github.io/tags/hardware-attacks/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware security</title>
+      <link>https://DavidHely.github.io/tags/hardware-security/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware;Security;Pipelines;Memory management;Instruction sets;Security</title>
+      <link>https://DavidHely.github.io/tags/hardwaresecuritypipelinesmemory-managementinstruction-setssecurity/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardwaresecuritypipelinesmemory-managementinstruction-setssecurity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IC</title>
+      <link>https://DavidHely.github.io/tags/ic/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/ic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IC piracy</title>
+      <link>https://DavidHely.github.io/tags/ic-piracy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/ic-piracy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspection</title>
+      <link>https://DavidHely.github.io/tags/inspection/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/inspection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuit modeling;Integrated circuit interconnections;Authentication;Fabrication;Physical-Unclonable-Function;Robust-PUF;Digital-PUF;Security-Evaluation;Substitution-Permutation-Network</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-modelingintegrated-circuit-interconnectionsauthenticationfabricationphysical-unclonable-functionrobust-pufdigital-pufsecurity-evaluationsubstitution-permutation-network/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-modelingintegrated-circuit-interconnectionsauthenticationfabricationphysical-unclonable-functionrobust-pufdigital-pufsecurity-evaluationsubstitution-permutation-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated circuits</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuits/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intellectual property</title>
+      <link>https://DavidHely.github.io/tags/intellectual-property/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/intellectual-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of Things (IoT)</title>
+      <link>https://DavidHely.github.io/tags/internet-of-things-iot/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/internet-of-things-iot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inverters</title>
+      <link>https://DavidHely.github.io/tags/inverters/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/inverters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logic gates</title>
+      <link>https://DavidHely.github.io/tags/logic-gates/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/logic-gates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manganese</title>
+      <link>https://DavidHely.github.io/tags/manganese/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/manganese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manufacturing</title>
+      <link>https://DavidHely.github.io/tags/manufacturing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematical model</title>
+      <link>https://DavidHely.github.io/tags/mathematical-model/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/mathematical-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical services</title>
+      <link>https://DavidHely.github.io/tags/medical-services/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/medical-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory exploits</title>
+      <link>https://DavidHely.github.io/tags/memory-exploits/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/memory-exploits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microcontrollers</title>
+      <link>https://DavidHely.github.io/tags/microcontrollers/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/microcontrollers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PV effects</title>
+      <link>https://DavidHely.github.io/tags/pv-effects/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/pv-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probes</title>
+      <link>https://DavidHely.github.io/tags/probes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/probes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://DavidHely.github.io/tags/programming/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols</title>
+      <link>https://DavidHely.github.io/tags/protocols/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RF channel</title>
+      <link>https://DavidHely.github.io/tags/rf-channel/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/rf-channel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RF domain</title>
+      <link>https://DavidHely.github.io/tags/rf-domain/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/rf-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFID</title>
+      <link>https://DavidHely.github.io/tags/rfid/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/rfid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RFID readers</title>
+      <link>https://DavidHely.github.io/tags/rfid-readers/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/rfid-readers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RISC-V</title>
+      <link>https://DavidHely.github.io/tags/risc-v/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/risc-v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio frequency</title>
+      <link>https://DavidHely.github.io/tags/radio-frequency/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/radio-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiofrequency identification</title>
+      <link>https://DavidHely.github.io/tags/radiofrequency-identification/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/radiofrequency-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redundancy</title>
+      <link>https://DavidHely.github.io/tags/redundancy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonant frequency</title>
+      <link>https://DavidHely.github.io/tags/resonant-frequency/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/resonant-frequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ring oscillators</title>
+      <link>https://DavidHely.github.io/tags/ring-oscillators/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/ring-oscillators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness</title>
+      <link>https://DavidHely.github.io/tags/robustness/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/robustness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SERFID</title>
+      <link>https://DavidHely.github.io/tags/serfid/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/serfid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety</title>
+      <link>https://DavidHely.github.io/tags/safety/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Computing</title>
+      <link>https://DavidHely.github.io/tags/secure-computing/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/secure-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://DavidHely.github.io/tags/security/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Servers</title>
+      <link>https://DavidHely.github.io/tags/servers/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/servers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal resolution</title>
+      <link>https://DavidHely.github.io/tags/signal-resolution/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/signal-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://DavidHely.github.io/tags/software/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>https://DavidHely.github.io/tags/stress/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Substrates</title>
+      <link>https://DavidHely.github.io/tags/substrates/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/substrates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System analysis and design</title>
+      <link>https://DavidHely.github.io/tags/system-analysis-and-design/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/system-analysis-and-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System-on-a-chip</title>
+      <link>https://DavidHely.github.io/tags/system-on-a-chip/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/system-on-a-chip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SystemC modeling</title>
+      <link>https://DavidHely.github.io/tags/systemc-modeling/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/systemc-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THz domain</title>
+      <link>https://DavidHely.github.io/tags/thz-domain/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/thz-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THz wave</title>
+      <link>https://DavidHely.github.io/tags/thz-wave/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/thz-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://DavidHely.github.io/tags/testing/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://DavidHely.github.io/tags/tools/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transistors</title>
+      <link>https://DavidHely.github.io/tags/transistors/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/transistors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust Memory</title>
+      <link>https://DavidHely.github.io/tags/trust-memory/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/trust-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLSI</title>
+      <link>https://DavidHely.github.io/tags/vlsi/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/vlsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLSI testing</title>
+      <link>https://DavidHely.github.io/tags/vlsi-testing/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/vlsi-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Watermarking</title>
+      <link>https://DavidHely.github.io/tags/watermarking/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/watermarking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aging</title>
+      <link>https://DavidHely.github.io/tags/aging/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aging effects</title>
+      <link>https://DavidHely.github.io/tags/aging-effects/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/aging-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithm diversity</title>
+      <link>https://DavidHely.github.io/tags/algorithm-diversity/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/algorithm-diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anti-counterfeiting</title>
+      <link>https://DavidHely.github.io/tags/anti-counterfeiting/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/anti-counterfeiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>authentication</title>
+      <link>https://DavidHely.github.io/tags/authentication/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>authentication technology</title>
+      <link>https://DavidHely.github.io/tags/authentication-technology/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/authentication-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bit error injections</title>
+      <link>https://DavidHely.github.io/tags/bit-error-injections/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/bit-error-injections/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chipless RFID concept</title>
+      <link>https://DavidHely.github.io/tags/chipless-rfid-concept/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/chipless-rfid-concept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chipless authentication</title>
+      <link>https://DavidHely.github.io/tags/chipless-authentication/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/chipless-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chipless authentication potential</title>
+      <link>https://DavidHely.github.io/tags/chipless-authentication-potential/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/chipless-authentication-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cipher</title>
+      <link>https://DavidHely.github.io/tags/cipher/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/cipher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clocks</title>
+      <link>https://DavidHely.github.io/tags/clocks/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/clocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concurrency (computers)</title>
+      <link>https://DavidHely.github.io/tags/concurrency-computers/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/concurrency-computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concurrent error detection</title>
+      <link>https://DavidHely.github.io/tags/concurrent-error-detection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/concurrent-error-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>counterfeit</title>
+      <link>https://DavidHely.github.io/tags/counterfeit/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/counterfeit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptographic protocols</title>
+      <link>https://DavidHely.github.io/tags/cryptographic-protocols/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/cryptographic-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptography</title>
+      <link>https://DavidHely.github.io/tags/cryptography/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design-for-hardware-trust</title>
+      <link>https://DavidHely.github.io/tags/design-for-hardware-trust/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/design-for-hardware-trust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>differential fault analysis</title>
+      <link>https://DavidHely.github.io/tags/differential-fault-analysis/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/differential-fault-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>efficient cost</title>
+      <link>https://DavidHely.github.io/tags/efficient-cost/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/efficient-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electromagnetic (EM) emission</title>
+      <link>https://DavidHely.github.io/tags/electromagnetic-em-emission/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/electromagnetic-em-emission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electromagnetic compatibility</title>
+      <link>https://DavidHely.github.io/tags/electromagnetic-compatibility/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/electromagnetic-compatibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electromagnetic wave</title>
+      <link>https://DavidHely.github.io/tags/electromagnetic-wave/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/electromagnetic-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elemental semiconductors</title>
+      <link>https://DavidHely.github.io/tags/elemental-semiconductors/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/elemental-semiconductors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded security</title>
+      <link>https://DavidHely.github.io/tags/embedded-security/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/embedded-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded system</title>
+      <link>https://DavidHely.github.io/tags/embedded-system/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/embedded-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>embedded systems</title>
+      <link>https://DavidHely.github.io/tags/embedded-systems/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error correction</title>
+      <link>https://DavidHely.github.io/tags/error-correction/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error correction codes</title>
+      <link>https://DavidHely.github.io/tags/error-correction-codes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-correction-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error statistics</title>
+      <link>https://DavidHely.github.io/tags/error-statistics/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error-correcting codes</title>
+      <link>https://DavidHely.github.io/tags/error-correcting-codes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-correcting-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>error-correction module</title>
+      <link>https://DavidHely.github.io/tags/error-correction-module/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/error-correction-module/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fabrication process</title>
+      <link>https://DavidHely.github.io/tags/fabrication-process/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fabrication-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fabrication tolerance</title>
+      <link>https://DavidHely.github.io/tags/fabrication-tolerance/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fabrication-tolerance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/tags/facilitate-path-delay-based-hardware-trojan-detection/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/facilitate-path-delay-based-hardware-trojan-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fault attack</title>
+      <link>https://DavidHely.github.io/tags/fault-attack/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fault-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fault attacks</title>
+      <link>https://DavidHely.github.io/tags/fault-attacks/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fault-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fault miss rate</title>
+      <link>https://DavidHely.github.io/tags/fault-miss-rate/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fault-miss-rate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field programmable gate arrays</title>
+      <link>https://DavidHely.github.io/tags/field-programmable-gate-arrays/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/field-programmable-gate-arrays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>field-programmable gate array</title>
+      <link>https://DavidHely.github.io/tags/field-programmable-gate-array/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/field-programmable-gate-array/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fingerprint</title>
+      <link>https://DavidHely.github.io/tags/fingerprint/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fingerprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fingerprints</title>
+      <link>https://DavidHely.github.io/tags/fingerprints/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/fingerprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geometrical parameters</title>
+      <link>https://DavidHely.github.io/tags/geometrical-parameters/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/geometrical-parameters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware design</title>
+      <link>https://DavidHely.github.io/tags/hardware-design/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware redundancy</title>
+      <link>https://DavidHely.github.io/tags/hardware-redundancy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/hardware-redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information leakage</title>
+      <link>https://DavidHely.github.io/tags/information-leakage/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/information-leakage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information redundancy</title>
+      <link>https://DavidHely.github.io/tags/information-redundancy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/information-redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>information theory - codes</title>
+      <link>https://DavidHely.github.io/tags/information-theory-codes/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/information-theory-codes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit (IC)</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-ic/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-ic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit authentication</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-authentication/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit counterfeiting</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-counterfeiting/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-counterfeiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit design</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-design/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit economics</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-economics/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit reliability</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-reliability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuit testing</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuit-testing/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuit-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>integrated circuits counterfeiting</title>
+      <link>https://DavidHely.github.io/tags/integrated-circuits-counterfeiting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/integrated-circuits-counterfeiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>key reconciliation protocols</title>
+      <link>https://DavidHely.github.io/tags/key-reconciliation-protocols/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/key-reconciliation-protocols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logic design</title>
+      <link>https://DavidHely.github.io/tags/logic-design/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/logic-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logic masking</title>
+      <link>https://DavidHely.github.io/tags/logic-masking/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/logic-masking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logic resources</title>
+      <link>https://DavidHely.github.io/tags/logic-resources/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/logic-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low cost</title>
+      <link>https://DavidHely.github.io/tags/low-cost/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/low-cost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malicious faults</title>
+      <link>https://DavidHely.github.io/tags/malicious-faults/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/malicious-faults/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manufactured product authentication</title>
+      <link>https://DavidHely.github.io/tags/manufactured-product-authentication/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/manufactured-product-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microcontrollers</title>
+      <link>https://DavidHely.github.io/tags/microcontrollers/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/microcontrollers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microwave</title>
+      <link>https://DavidHely.github.io/tags/microwave/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/microwave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nondestructive authentication</title>
+      <link>https://DavidHely.github.io/tags/nondestructive-authentication/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/nondestructive-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nondestructive testing</title>
+      <link>https://DavidHely.github.io/tags/nondestructive-testing/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/nondestructive-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>noninvasive authentication</title>
+      <link>https://DavidHely.github.io/tags/noninvasive-authentication/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/noninvasive-authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>path delay analysis</title>
+      <link>https://DavidHely.github.io/tags/path-delay-analysis/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/path-delay-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power supply glitch attack</title>
+      <link>https://DavidHely.github.io/tags/power-supply-glitch-attack/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/power-supply-glitch-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process variation</title>
+      <link>https://DavidHely.github.io/tags/process-variation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/process-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pysical unclonable functions</title>
+      <link>https://DavidHely.github.io/tags/pysical-unclonable-functions/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/pysical-unclonable-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum cryptography</title>
+      <link>https://DavidHely.github.io/tags/quantum-cryptography/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/quantum-cryptography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum key distribution</title>
+      <link>https://DavidHely.github.io/tags/quantum-key-distribution/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/quantum-key-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiated electromagnetic emission</title>
+      <link>https://DavidHely.github.io/tags/radiated-electromagnetic-emission/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/radiated-electromagnetic-emission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>radiofrequency identification</title>
+      <link>https://DavidHely.github.io/tags/radiofrequency-identification/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/radiofrequency-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>randomness</title>
+      <link>https://DavidHely.github.io/tags/randomness/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/randomness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recycling</title>
+      <link>https://DavidHely.github.io/tags/recycling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/recycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redundancy</title>
+      <link>https://DavidHely.github.io/tags/redundancy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reliability</title>
+      <link>https://DavidHely.github.io/tags/reliability/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reliability effects</title>
+      <link>https://DavidHely.github.io/tags/reliability-effects/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/reliability-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remote server</title>
+      <link>https://DavidHely.github.io/tags/remote-server/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/remote-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reset</title>
+      <link>https://DavidHely.github.io/tags/reset/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/reset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>return oriented programming</title>
+      <link>https://DavidHely.github.io/tags/return-oriented-programming/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/return-oriented-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robust code</title>
+      <link>https://DavidHely.github.io/tags/robust-code/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/robust-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robust communications</title>
+      <link>https://DavidHely.github.io/tags/robust-communications/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/robust-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robust solution</title>
+      <link>https://DavidHely.github.io/tags/robust-solution/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/robust-solution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robustness analysis</title>
+      <link>https://DavidHely.github.io/tags/robustness-analysis/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/robustness-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safety issues</title>
+      <link>https://DavidHely.github.io/tags/safety-issues/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/safety-issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scan technique</title>
+      <link>https://DavidHely.github.io/tags/scan-technique/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/scan-technique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scheme measurements</title>
+      <link>https://DavidHely.github.io/tags/scheme-measurements/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/scheme-measurements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>secure processor</title>
+      <link>https://DavidHely.github.io/tags/secure-processor/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/secure-processor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://DavidHely.github.io/tags/security/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semiconductor companies</title>
+      <link>https://DavidHely.github.io/tags/semiconductor-companies/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/semiconductor-companies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>semiconductor industry</title>
+      <link>https://DavidHely.github.io/tags/semiconductor-industry/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/semiconductor-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>silicon</title>
+      <link>https://DavidHely.github.io/tags/silicon/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/silicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation and evaluation of RFID systems</title>
+      <link>https://DavidHely.github.io/tags/simulation-and-evaluation-of-rfid-systems/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/simulation-and-evaluation-of-rfid-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stream cipher</title>
+      <link>https://DavidHely.github.io/tags/stream-cipher/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/stream-cipher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>system security reduction</title>
+      <link>https://DavidHely.github.io/tags/system-security-reduction/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/system-security-reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag detection</title>
+      <link>https://DavidHely.github.io/tags/tag-detection/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/tag-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag-reader communication</title>
+      <link>https://DavidHely.github.io/tags/tag-reader-communication/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/tag-reader-communication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terahertz</title>
+      <link>https://DavidHely.github.io/tags/terahertz/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/terahertz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terahertz wave</title>
+      <link>https://DavidHely.github.io/tags/terahertz-wave/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/terahertz-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test boards</title>
+      <link>https://DavidHely.github.io/tags/test-boards/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/test-boards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time redundancy</title>
+      <link>https://DavidHely.github.io/tags/time-redundancy/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/time-redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trusted computing</title>
+      <link>https://DavidHely.github.io/tags/trusted-computing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/trusted-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>untrusted foundries</title>
+      <link>https://DavidHely.github.io/tags/untrusted-foundries/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/untrusted-foundries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variability-aware circuit configuration</title>
+      <link>https://DavidHely.github.io/tags/variability-aware-circuit-configuration/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/variability-aware-circuit-configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>variability-aware circuit design</title>
+      <link>https://DavidHely.github.io/tags/variability-aware-circuit-design/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/tags/variability-aware-circuit-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

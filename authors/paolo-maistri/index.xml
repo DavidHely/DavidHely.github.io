@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paolo Maistri on David Hely</title>
+    <link>https://DavidHely.github.io/authors/paolo-maistri/</link>
+    <description>Recent content in Paolo Maistri on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/paolo-maistri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Laser fault injection at the CMOS 28 nm technology node: an analysis of the fault model</title>
+      <link>https://DavidHely.github.io/publication/dutertre-laser-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-laser-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The case of using CMOS FD-SOI rather than CMOS bulk to harden ICs against laser attacks</title>
+      <link>https://DavidHely.github.io/publication/dutertre-case-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/dutertre-case-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of laser-induced errors: RTL fault models versus layout locality characteristics</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-analysis-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On fault injections for early security evaluation vs. laser-based attacks</title>
+      <link>https://DavidHely.github.io/publication/leveugle-fault-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-fault-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the development of a new countermeasure based on a laser attack RTL fault model</title>
+      <link>https://DavidHely.github.io/publication/ananiadis-development-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/ananiadis-development-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of RTL laser fault injection model with respect to layout information</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-validation-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multiple fault injection methodology based on cone partitioning towards RTL modeling of laser attacks</title>
+      <link>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/papadimitriou-multiple-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-Induced Fault Effects in Security-Dedicated Circuits</title>
+      <link>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/beroulle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser-induced fault effects in security-dedicated circuits</title>
+      <link>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/leveugle-laser-induced-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On error models for RTL security evaluations</title>
+      <link>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/vanhauwaert-error-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

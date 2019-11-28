@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>elemental semiconductors on David Hely</title>
+    <link>https://DavidHely.github.io/tags/elemental-semiconductors/</link>
+    <description>Recent content in elemental semiconductors on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/tags/elemental-semiconductors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Key Reconciliation Protocols for Error Correction of Silicon PUF Responses</title>
+      <link>https://DavidHely.github.io/publication/colombier-key-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/colombier-key-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

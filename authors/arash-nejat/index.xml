@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arash Nejat on David Hely</title>
+    <link>https://DavidHely.github.io/authors/arash-nejat/</link>
+    <description>Recent content in Arash Nejat on David Hely</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://DavidHely.github.io/authors/arash-nejat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ESCALATION: Leveraging Logic Masking to Facilitate Path-Delay-Based Hardware Trojan Detection Methods</title>
+      <link>https://DavidHely.github.io/publication/nejat-escalation-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-escalation-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High output hamming-distance achievement by a greedy logic masking approach</title>
+      <link>https://DavidHely.github.io/publication/samimi-high-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/samimi-high-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How logic masking can improve path delay analysis for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-how-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-how-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reusing logic masking to facilitate path-delay-based hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-reusing-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facilitating side channel analysis by obfuscation for Hardware Trojan detection</title>
+      <link>https://DavidHely.github.io/publication/nejat-facilitating-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>https://DavidHely.github.io/publication/nejat-facilitating-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
